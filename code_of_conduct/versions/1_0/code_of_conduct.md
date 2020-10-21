@@ -45,7 +45,7 @@ Project leaders will make reasonable efforts to adjudicate incidents shortly aft
 
 Project leaders shall take all reasonable actions to ensure the successful execution of the mission statement and the maximum effectiveness of the project.
 
-All material in official project spaces is subject to the code of conduct, and as such, can be deleted, modified, or rejected by project leaders if it is found to be in violation of the code of the conduct. In repeated or severe cases, project leaders may exclude individuals from further contribution to the project on a temporary or permanent basis.
+All material in official project spaces is subject to the code of conduct, and as such, can be deleted, modified, or rejected by project leaders if it is found to be in violation of the code of conduct. In repeated or severe cases, project leaders may exclude individuals from further contribution to the project on a temporary or permanent basis.
 
 ## Scope
 This code of conduct applies to official project spaces, which include but are not limited to: social media, conferences, code repositories, and discussion boards. This code of conduct also applies to members and contributors who represent the project in non-project spaces, such as when contributors give a talk on behalf of the project at a conference. In official spaces, members and contributors should operate with decorum that reflects positively on the project, its objectives, and its community.
