@@ -1,10 +1,10 @@
 # Mission Protocol
 
-[![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.0%20adopted-1553ef.svg)](code_of_conduct.md)
+[![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.1%20adopted-1553ef.svg)](code_of_conduct.md)
 
 <img src="./img/MP.png" alt="drawing" width="250"/>
 
- [Adopt The Mission Protocol](#adopt-the-mission-protocol-code-of-conduct) | [Get the Latest Version](/code_of_conduct/versions/1_0/code_of_conduct.md) | [Website](https://missionprotocol.org)
+ [Adopt The Mission Protocol](#adopt-the-mission-protocol-code-of-conduct) | [Get the Latest Version](/code_of_conduct/versions/1_1/code_of_conduct.md) | [Website](https://missionprotocol.org)
 
 ----
 
@@ -41,16 +41,16 @@ We know that we can only reach our potential and fulfill our mission if we focus
 
 ## Adopt the Mission Protocol Code of Conduct
 
-You can adopt the Mission Protocol by adding a copy of the [latest version](https://github.com/missionprotocol/missionprotocol/blob/master/code_of_conduct/versions/1_0/code_of_conduct.md) to your source code repository.
+You can adopt the Mission Protocol by adding a copy of the [latest version](https://github.com/missionprotocol/missionprotocol/blob/master/code_of_conduct/versions/1_1/code_of_conduct.md) to your source code repository.
 
 **Note:** You will need to modify two portions of this document in order to fully adopt the Mission Protocol Code of Conduct. First, a mission statement to define and guide the project, and second, a contact email to ensure violations can be reported.
 
-If your project includes a README, you may want to add a badge like this one ![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.0%20adopted-1553ef.svg) using the code below.
+If your project includes a README, you may want to add a badge like this one ![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.1%20adopted-1553ef.svg) using the code below.
 
 Insert the Mission Protocol badge into your Markdown README by adding the code below:
 
 ```
-[![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.0%20adopted-1553ef.svg)](code_of_conduct.md)
+[![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.1%20adopted-1553ef.svg)](code_of_conduct.md)
 ```
 
 The Mission Protocol Code of Conduct is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/missionprotocol/missionprotocol/blob/master/LICENSE.txt), which requires attribution. Learn more about the CC BY 4.0 License [here](https://creativecommons.org/licenses/by/4.0/).

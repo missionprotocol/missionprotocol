@@ -1,6 +1,6 @@
 ## Mission
 
-Our mission is to empower open source projects to maximize good in the world by helping them define and execute on their missions.
+**[PROJECT LEADERS**: detail the mission statement for your project here. It should be a short, scoped statement directly related to the value proposition of what you plan to create **]**
 
 ## Objective
 
@@ -37,7 +37,7 @@ In line with the leadership principle, project leaders have the responsibility t
 
 ### Reporting
 
-We highly encourage contributors to resolve conflicts by directly reaching out to the other party or parties involved in the dispute. When this is insufficient, members can report the issue to project leaders via email at contact@missionprotocol.com within 31 days of the inciting event and request a formal resolution.
+We highly encourage contributors to resolve conflicts by directly reaching out to the other party or parties involved in the dispute. When this is insufficient, members can report the issue to project leaders via email at **[CONTACT ADDRESS]** within 31 days of the inciting event and request a formal resolution.
 
 Project leaders will make reasonable efforts to adjudicate incidents shortly after they are brought to their attention.
 
